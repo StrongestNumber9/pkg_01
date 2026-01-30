@@ -1,0 +1,5 @@
+[teragrep-central-releases]
+name=teragrep-central-releases
+baseurl=https://raw.githubusercontent.com/teragrep/pkg_01/refs/heads/gh-pages/central/releases
+gpgcheck=0
+enabled=1
