@@ -18,7 +18,7 @@ All {{ repo.name }} files:
 <ul>
   {% for file in site.static_files %}
     {% if file.path contains repo.path %}
-      <li><a href="{{ site.baseurl }}{{ file.path }}">{{ file.path  }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ file.path }}">{{ file.path }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
