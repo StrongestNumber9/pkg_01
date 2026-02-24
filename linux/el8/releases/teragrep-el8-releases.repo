@@ -1,6 +1,6 @@
 [teragrep-el8-releases]
 name=teragrep-el8-releases
-baseurl=https://pkg.teragrep.com/central/releases
+baseurl=https://pkg.teragrep.com/linux/el8/releases
 gpgcheck=1
-gpgkey=https://pkg.teragrep.com/central/releases/teragrep-el8-releases-gpg-key.pub
+gpgkey=https://pkg.teragrep.com/linux/el8/releases/teragrep-el8-releases-gpg-key.pub
 enabled=1
