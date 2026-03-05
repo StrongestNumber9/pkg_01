@@ -1,6 +1,0 @@
-[teragrep-el9-releases]
-name=teragrep-el9-releases
-baseurl=https://pkg.teragrep.com/linux/el9/releases
-gpgcheck=1
-gpgkey=https://pkg.teragrep.com/linux/el9/releases/teragrep-el9-releases-gpg-key.pub
-enabled=1
