@@ -3,9 +3,6 @@ logo: /img/logo.png
 description: pkg_01 repository
 theme: jekyll-theme-minimal
 repos:
-  - name: Teragrep Central Releases
-    path: central
-    description: Contains platform agnostic releases
   - name: Teragrep EL8 Releases
     path: linux/el8
     description: Contains builds that are expected to run on EL8 platform
