@@ -1,0 +1,6 @@
+[repodemo-rocky8]
+name=repodemo-rocky8
+baseurl=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/rocky/8/releases
+gpgcheck=1
+gpgkey=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/rocky/8/releases/repodemo-rocky8-gpg-key.pub
+enabled=1
