@@ -1,6 +1,0 @@
-[links-relative-unappended]
-name=links-relative-unappended
-baseurl=http://127.0.0.1:8081/repository/teragrep
-gpgcheck=1
-gpgkey=http://127.0.0.1:8081/repository/teragrep/links-relative-unappended-gpg-key.pub
-enabled=1
