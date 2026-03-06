@@ -1,0 +1,6 @@
+[links-relative-unset]
+name=links-relative-unset
+baseurl=http://127.0.0.1:8081/repository/teragrep//links/relative-unset
+gpgcheck=1
+gpgkey=http://127.0.0.1:8081/repository/teragrep//links/relative-unset/links-relative-unset-gpg-key.pub
+enabled=1
