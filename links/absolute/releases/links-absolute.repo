@@ -1,6 +1,0 @@
-[links-absolute]
-name=links-absolute
-baseurl=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/links/absolute/releases
-gpgcheck=1
-gpgkey=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/links/absolute/releases/links-absolute-gpg-key.pub
-enabled=1
