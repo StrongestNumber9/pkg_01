@@ -1,0 +1,6 @@
+[links-absolute-unset]
+name=links-absolute-unset
+baseurl=http://127.0.0.1:8081/repository/teragrep//links/absolute-unset/releases
+gpgcheck=1
+gpgkey=http://127.0.0.1:8081/repository/teragrep//links/absolute-unset/releases/links-absolute-unset-gpg-key.pub
+enabled=1
