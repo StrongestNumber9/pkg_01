@@ -1,0 +1,6 @@
+[links-relative]
+name=links-relative
+baseurl=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/links/relative/releases
+gpgcheck=1
+gpgkey=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/links/relative/releases/links-relative-gpg-key.pub
+enabled=1
