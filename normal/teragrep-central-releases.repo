@@ -1,0 +1,6 @@
+[teragrep-central-releases]
+name=teragrep-central-releases
+baseurl=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/normal
+gpgcheck=1
+gpgkey=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/normal/teragrep-central-releases-gpg-key.pub
+enabled=1
