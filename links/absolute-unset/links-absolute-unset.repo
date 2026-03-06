@@ -1,0 +1,6 @@
+[links-absolute-unset]
+name=links-absolute-unset
+baseurl=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/links/absolute-unset
+gpgcheck=1
+gpgkey=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/links/absolute-unset/links-absolute-unset-gpg-key.pub
+enabled=1
