@@ -1,0 +1,6 @@
+[with-baseurl-with-prefix-no-append]
+name=with-baseurl-with-prefix-no-append
+baseurl=http://127.0.0.1:8081/repository/teragrep
+gpgcheck=1
+gpgkey=http://127.0.0.1:8081/repository/teragrep/with-baseurl-with-prefix-no-append-gpg-key.pub
+enabled=1
