@@ -1,6 +1,0 @@
-[no-baseurl-no-prefix]
-name=no-baseurl-no-prefix
-baseurl=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/links/no-baseurl-no-prefix
-gpgcheck=1
-gpgkey=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/links/no-baseurl-no-prefix/no-baseurl-no-prefix-gpg-key.pub
-enabled=1
