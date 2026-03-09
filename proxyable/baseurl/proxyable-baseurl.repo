@@ -1,0 +1,6 @@
+[proxyable-baseurl]
+name=proxyable-baseurl
+baseurl=http://127.0.0.1:8081/repository/teragrep
+gpgcheck=1
+gpgkey=http://127.0.0.1:8081/repository/teragrep/proxyable-baseurl-gpg-key.pub
+enabled=1
