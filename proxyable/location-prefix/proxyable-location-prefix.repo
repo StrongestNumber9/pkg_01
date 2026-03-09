@@ -1,0 +1,6 @@
+[proxyable-location-prefix]
+name=proxyable-location-prefix
+baseurl=http://127.0.0.1:8081/repository/teragrep-prefix
+gpgcheck=1
+gpgkey=http://127.0.0.1:8081/repository/teragrep-prefix/proxyable-location-prefix-gpg-key.pub
+enabled=1
