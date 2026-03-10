@@ -1,0 +1,6 @@
+[teragrep-el8-releases]
+name=teragrep-el8-releases
+baseurl=/linux/el8
+gpgcheck=1
+gpgkey=/linux/el8/teragrep-el8-releases-gpg-key.pub
+enabled=1
