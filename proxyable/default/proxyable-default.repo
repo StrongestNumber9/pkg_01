@@ -1,6 +1,0 @@
-[proxyable-default]
-name=proxyable-default
-baseurl=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/proxyable/default
-gpgcheck=1
-gpgkey=https://raw.githubusercontent.com/StrongestNumber9/pkg_01/refs/heads/gh-pages/proxyable/default/proxyable-default-gpg-key.pub
-enabled=1
