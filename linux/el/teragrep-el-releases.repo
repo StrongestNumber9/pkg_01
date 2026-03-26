@@ -1,0 +1,6 @@
+[teragrep-el-releases]
+name=teragrep-el-releases
+baseurl=/linux/el
+gpgcheck=1
+gpgkey=/linux/el/teragrep-el-releases-gpg-key.pub
+enabled=1
